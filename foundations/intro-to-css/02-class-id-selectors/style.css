@@ -1,5 +1,5 @@
 .odd-number {
-    background-color: rgb(255, 100, 100);
+    background-color: rgb(245, 135, 135);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
@@ -10,4 +10,10 @@
 
 .number-three {
     font-size: 24px;
+}
+
+#number-four {
+    background-color: rgb(132, 228, 132);
+    font-size: 24px;
+    font-weight: bold;
 }
